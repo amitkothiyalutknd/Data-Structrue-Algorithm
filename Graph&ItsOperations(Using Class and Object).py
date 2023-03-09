@@ -51,7 +51,7 @@ class Graph:
             5> Seattle
             6> Washington
 
-            Select Start & Distination Cities from above list to find out the routes. Seperate Start & Distination Cities from Single Space.''').split(' '))
+            Select Start & Destination Cities from above list to find out the routes. Seperate Start & Destination Cities from Single Space.''').split(' '))
         
             if depPort == 1:
                 start = "Auckland"
